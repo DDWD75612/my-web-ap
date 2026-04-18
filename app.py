@@ -71,7 +71,7 @@ st.set_page_config(page_title="ארכיון תמונות חכם", layout="wide")
 init_db()
 
 st.title("📸 ארכיון תמונות חכם")
-st.info(f"הת: {TARGET_EMAIL}")
+
 
 col_input, col_display = st.columns([1, 2])
 
