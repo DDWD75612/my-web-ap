@@ -7,7 +7,7 @@ from datetime import datetime
 from PIL import Image
 
 # --- 1. הגדרות מייל (תשאיר את מה שעבד לך קודם) ---
-SENDER_EMAIL = "your-email@gmail.com"  # המייל שלך
+SENDER_EMAIL = "D0584624770@gmail.com"  # המייל שלך
 SENDER_PASSWORD = "pagb zgdr tipb onyd" # הקוד בן 16 האותיות מגוגל
 TARGET_EMAIL = "D0584624770@GMAIL.COM"
 
